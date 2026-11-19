@@ -1,7 +1,5 @@
 import sys
 
-Salary = float import sys
-
 salary = float(sys.argv[1])
 
 if salary < 20000:
